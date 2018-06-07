@@ -1,0 +1,3 @@
+[submodule "sample-size-calculator"]
+	path = sample-size-calculator
+	url = https://github.com/santhoshhari/sample-size-calculator.git
